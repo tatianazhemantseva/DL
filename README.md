@@ -31,7 +31,7 @@ https://www.kaggle.com/c/sf-dl-car-classification/data
 Файлы в репозитории
 Репозиторий содержит два ноутбука.
 
-baseline-keras-xception-car-classification-49bce7.ipynb  -Рабочее решение с amblumentation, которое дало наилучший результат на кагле 0.95086
+baseline-keras-xception-car-classification-49bce7.ipynb  -Рабочее решение с ablumentation, которое дало наилучший результат на кагле 0.95086
 
 baseline-keras-xception-car-class-v2-0_xception - Рабочее решение, которое дало результат на кагле 0.94546
 
