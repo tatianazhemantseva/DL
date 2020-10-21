@@ -32,8 +32,11 @@ https://www.kaggle.com/c/sf-dl-car-classification/data
 Репозиторий содержит два ноутбука.
 
 baseline-keras-xception-car-classification-49bce7.ipynb  -Рабочее решение с amblumentation, которое дало наилучший результат на кагле 0.95086
-baseline-keras-xception-car-class-v2-0_xception - Рабочее решение, которое дало наилучший результат на кагле 0.94546
+
+baseline-keras-xception-car-class-v2-0_xception - Рабочее решение, которое дало результат на кагле 0.94546
+
 baseline-keras-xception-car-class-v2-0__EfficientNetB7 - Решение, с применением EfficientNetB7, но еще работаю над ним. сильно притормозила проблема несоздания submission после запуска методом Save and Run
+
 
 Никнейм на Kaggle
 tatianazhemantseva
